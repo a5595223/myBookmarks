@@ -23,7 +23,7 @@ kbd:hover  > button {
     display: inline-block;
 }
 body{
-    background: gray url(./wall2.jpg) no-repeat center center;
+    background: gray url(./wall1.jpg) no-repeat center center;
     background-size: cover;
 }
 
